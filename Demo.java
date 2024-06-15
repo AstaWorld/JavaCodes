@@ -10,11 +10,13 @@ public class Demo {
 		Boolean val1=a.equals("hello");//false
 		System.out.println(val1);
 		
-	    Boolean val3=a.equals("Hello world");// true
+	    Boolean val3=a.equals("Hello world");//true
 		System.out.println(val3);
 		
-		Boolean val4=a.equalsIgnoreCase("hello world");
+		Boolean val4=a.equalsIgnoreCase("hello world");//true
 		System.out.println(val4);
+		char result=a.charAt(2);
+		System.out.println(result);
 	}
 
 }
