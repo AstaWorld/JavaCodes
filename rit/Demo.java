@@ -5,7 +5,7 @@ public class Demo {
 		Scanner sc= new Scanner(System.in);
 		
 		//question 4
-		/*System.out.println("please enter the number");
+		System.out.println("please enter the number");
 		int a=sc.nextInt();
 		System.out.println("please enter the number");
 		int b=sc.nextInt();
@@ -16,11 +16,11 @@ public class Demo {
 			System.out.println("the number is false");
 		}else {
 			System.out.println("the number is true");
-		}*/
+		}
 		
 		
 		//question even or odd
-		/*System.out.println("please enter the number");
+		System.out.println("please enter the number");
 		int a=sc.nextInt();
 		
 		if(a%2==0) {
@@ -28,7 +28,7 @@ public class Demo {
 		}else if(a%1==0) {
 		}else {
 			System.out.println("the number is not defined");
-		}*/
+		}
 		
 		
 		
