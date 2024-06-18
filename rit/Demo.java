@@ -4,7 +4,7 @@ public class Demo {
 	public static void main(String [] args) {
 		Scanner sc= new Scanner(System.in);
 		
-		//question 4
+		//question 3
 		System.out.println("please enter the number");
 		int a=sc.nextInt();
 		System.out.println("please enter the number");
