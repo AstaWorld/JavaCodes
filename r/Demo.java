@@ -30,7 +30,7 @@ public class Demo {
 	    int c=sc.nextInt();
 	    
 	    
-	    if(a>b&&b>c) {
+	    if(a>b&&a>c) {
 	    	System.out.println("a is greater");
 	    }else if(b>a&&b>c) {
 	    	System.out.println("bis greater");
